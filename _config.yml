@@ -4,7 +4,7 @@ SEOTitle: 寻远的博客 | Qianjun Blog
 header-img: img/home-bg.jpg
 email: wangqianqianjun@gmail.com
 description: 人生天地间 忽如远行客
-keyword:qianjun
+keyword: qianjun
 url: "https://wangqianqianjun.github.io/"              # your host, for absolute URL
 baseurl: ""                                            # for example, '/blog' if your blog hosted on 'host/blog'
 
