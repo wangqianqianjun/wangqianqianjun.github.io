@@ -4,7 +4,7 @@ SEOTitle: 寻远的博客 | Qianjun Blog
 header-img: img/home-bg.jpg
 email: wangqianqianjun@gmail.com
 description: 人生天地间 忽如远行客
-keyword:qianjun
+keyword: qianjun
 url: "https://wangqianqianjun.github.io/"              # your host, for absolute URL
 baseurl: ""                                            # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -72,8 +72,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "我有一壶酒，足以慰风尘。<br>倾尽江海里，赠饮天下人。"
+sidebar-avatar: /img/qianjun-test.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
