@@ -13,7 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     北城的帆
+weibo_username:     https://weibo.com/u/2382959205
 zhihu_username:     望千军
 github_username:    wangqianqianjun
 #twitter_username:   
